@@ -12,4 +12,4 @@ Projects:
      I only saved the notebooks for the bigger problems.
 
 3. Math 164: Optimization
-   - Every optimization I am coding for this class is done willingly and not as homework. Coding these algorithms helps me learn python and techniques that will be used for machine learning. I have heard that some of these algorithms are very useful. The algorithms I will be coding are: Golden Section Search,  Fibonacci Method, Newton's Method, Secant Method, Line Search, Steepest Descent, and others that I will be learning throughout the class. 
+   - Every optimization I am coding for this class is done willingly and not as homework. Coding these algorithms helps me learn python and techniques that will be used for machine learning. I have heard that some of these algorithms are very useful. The algorithms I will be coding are: Golden Section Search,  Fibonacci Method, Newton's Method, Steepest Descent, and others that I will be learning throughout the class. 
