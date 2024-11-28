@@ -13,3 +13,6 @@ Projects:
 
 3. Math 164: Optimization
    - Every optimization I am coding for this class is done willingly and not as homework. Coding these algorithms helps me learn python and techniques that will be used for machine learning. I have heard that some of these algorithms are very useful. The algorithms I will be coding are: Golden Section Search,  Fibonacci Method, Newton's Method, Steepest Descent, and others that I will be learning throughout the class. 
+
+4. Euler Project Problems
+   - These are problems I have selected from projecteuler.net. Project Euler is a website that contains a collection of challenging mathematical problems that require a computer to solve. Problems can be solved using any language, and in this case I am using python. 
