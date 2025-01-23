@@ -18,4 +18,4 @@ Projects:
    - These are problems I have selected from projecteuler.net. Project Euler is a website that contains a collection of challenging mathematical problems that require a computer to solve. Problems can be solved using any language, and in this case I am using python.
 
 5. Math 156: Machine Learning
-   - There is soon to be a group project for this class based on Convolutional Neural Networks. Will be uplaoded here when it's done. Group sizes are between 2-4 people.
+   - There is soon to be a group project for this class based on Convolutional Neural Networks. The project will be uploaded here when it's done. Group sizes are between 2-4 people.
